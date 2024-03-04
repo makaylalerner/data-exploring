@@ -14,6 +14,7 @@ Hello! This is my repo used for small data exploration projects.
 - Snowflake
 
 ## find me
+<link="https://www.kaggle.com/makaylalerner"> Kaggle </link>
 - datacamp: https://www.datacamp.com/portfolio/mlerner23
 - kaggle: https://www.kaggle.com/makaylalerner
 - linkedin: https://www.kaggle.com/makaylalerner
